@@ -1,10 +1,10 @@
-# ЗаказПро 1.0.4 — открытая бета-версия
+# ЗаказПро 1.0.6 — открытая бета-версия
 
 Бесплатный помощник для фрилансеров на Windows: заказы, локальный искусственный интеллект и черновики откликов. Платный API не требуется. Все функции остаются бесплатными.
 
-[Официальный сайт](https://netsoul-coder.github.io/ZakazPro-Releases/) · [Скачать ZakazPro-Setup-1.0.4.exe](https://github.com/Netsoul-coder/ZakazPro-Releases/releases/download/v1.0.4/ZakazPro-Setup-1.0.4.exe) · [Выпуск 1.0.4](https://github.com/Netsoul-coder/ZakazPro-Releases/releases/tag/v1.0.4)
+[Официальный сайт](https://netsoul-coder.github.io/ZakazPro-Releases/) · [Скачать ZakazPro-Setup-1.0.6.exe](https://github.com/Netsoul-coder/ZakazPro-Releases/releases/download/v1.0.6/ZakazPro-Setup-1.0.6.exe) · [Выпуск 1.0.6](https://github.com/Netsoul-coder/ZakazPro-Releases/releases/tag/v1.0.6)
 
-При запуске ZakazPro-Setup-1.0.4.exe автоматически получает файлы проверки этого выпуска и проверяет подпись комплекта. Для автономной установки скачайте также ZakazPro-Setup-1.0.4.exe.manifest.json и ZakazPro-Setup-1.0.4.exe.sig и положите рядом. Среда .NET включена. Для локального ИИ нужны Ollama и gpt-oss:20b; для Kwork — WebView2 и интернет. Обновление с 1.0.3 создаёт резервную копию данных.
+При запуске ZakazPro-Setup-1.0.6.exe автоматически получает файлы проверки этого выпуска и проверяет подпись комплекта. Для автономной установки скачайте также ZakazPro-Setup-1.0.6.exe.manifest.json и ZakazPro-Setup-1.0.6.exe.sig и положите рядом. Среда .NET включена. Для локального ИИ нужны Ollama и gpt-oss:20b; для Kwork — WebView2 и интернет. Обновление с публичной версии 1.0.4 создаёт резервную копию и сохраняет данные и настройки.
 
 - [Руководство пользователя](docs/GUIDE.md)
 - [Системные требования](docs/REQUIREMENTS.md)
